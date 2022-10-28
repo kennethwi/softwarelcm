@@ -2,6 +2,9 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
+import LogRocket from "logrocket";
+LogRocket.init("sfetlo/testar");
+
 function App() {
   return (
     <div className="App">
@@ -9,7 +12,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload. SKRIVER HÄR ABC -
-          1234
+          1234 - HEJ
         </p>
         <a
           className="App-link"
