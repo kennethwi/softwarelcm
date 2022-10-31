@@ -12,7 +12,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload. SKRIVER HÄR ABC -
-          1234 - HEJ
+          1234 - HEJ - KANEL
         </p>
         <a
           className="App-link"
